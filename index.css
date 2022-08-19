@@ -1,0 +1,43 @@
+h1{
+    text-shadow: 1.5px 2px 1px black;
+    text-align: center;
+   color: brown;
+}
+h3{
+    text-align: center;
+    text-shadow: 2px 2px 2px white;
+}
+div{
+    color: rgb(94, 21, 21);
+    text-shadow: 1px 1px 1px rgb(189, 185, 181), 1px 1px 1px rgb(177, 156, 156);
+    margin: 20px;
+    font-weight: bolder;
+    font-size: large;
+}
+input{
+    height: 30px;
+    width: 400px;
+    margin-right: 5px;
+}
+button{
+    width: 100px;
+    background-color: rgb(216, 109, 109);
+}
+#line1{
+    text-shadow: 1.5px 2px 1px black;
+    color: brown;
+    font-size: x-large;
+
+}
+#line2{
+    text-shadow: 1.5px 2px 1px black;
+    color: brown;
+    font-size: x-large;
+}
+body{
+    background-image: url(wp5489562.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    }
+
